@@ -7,7 +7,7 @@ backend: #http://backend-podinfo:9898/echo
 backends: []
 
 image:
-  repository: harbor.wei2.gkdevopscamp.com/example/camp-go-example
+  repository: harbor.pukka.devopsthink.org/example/camp-go-example
   tag: latest
   pullPolicy: IfNotPresent
 
